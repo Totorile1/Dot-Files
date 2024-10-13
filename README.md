@@ -20,3 +20,35 @@ This include:
   -  ./.config/i3
   -  ./.config/i3status
 - ./Icon who contains all the icon, I used somewhere.
+# Requierments
+- a linux operating system, personnaly I use Ubuntu (Fuck Arch)
+- bash
+- nmcli
+- i3
+- i3status
+- fastfetch
+- alacritty
+- vim-plug
+- neovim with Plugins:
+   - https://github.com/folke/tokyonight.nvim
+   - https://github.com/tpope/vim-sensible
+   - https://github.com/nvim-tree/nvim-web-devicons
+   - https://github.com/nvim-tree/nvim-tree.lua/
+   - https://github.com/tpope/vim-surround
+   - https://github.com/voldikss/vim-floaterm
+   - https://github.com/neovim/nvim-lspconfig
+   - https://github.com/hrsh7th/cmp-nvim-lsp
+   - https://github.com/hrsh7th/cmp-nvim-lsp
+   - https://github.com/hrsh7th/cmp-buffer
+   - https://github.com/hrsh7th/cmp-path
+   - https://github.com/hrsh7th/cmp-cmdline
+   - https://github.com/hrsh7th/nvim-cmp
+   - https://github.com/hrsh7th/cmp-vsnip
+   - https://github.com/hrsh7th/vim-vsnip
+   - https://github.com/arminveres/md-pdf.nvim
+   - https://github.com/nvimdev/dashboard-nvim
+   - https://github.com/nvim-lualine/lualine.nvim
+- LSPs
+  -texlab
+  -pylsp
+  -lua-lsp
